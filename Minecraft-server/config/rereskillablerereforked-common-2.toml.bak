@@ -1,0 +1,3 @@
+#Disable wool drops to force the player to get shears.
+disableWoolDrops = true
+

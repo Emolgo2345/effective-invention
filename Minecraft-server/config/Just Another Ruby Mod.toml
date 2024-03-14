@@ -1,0 +1,7 @@
+
+#General settings
+[general]
+	#Lower number is more frequent
+	#Range: 1 ~ 100000000
+	"Meteor Frequency" = 100000
+
